@@ -1,0 +1,10 @@
+{
+  "description": "Create a clean, customizable portfolio showcasing personal info, videos, images, skills, and contact details with intuitive navigation and detailed views.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
